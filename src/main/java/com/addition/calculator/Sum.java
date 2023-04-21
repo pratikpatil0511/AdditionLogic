@@ -9,4 +9,10 @@ public class Sum {
 		System.out.println("Addition : "+c+" (AdditionLogic)");
 		return c;
 	}
+	
+	
+	public String getMsg() {
+		
+		return "This is calculator";
+	}
 }
